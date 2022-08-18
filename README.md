@@ -1,3 +1,3 @@
 flutter - project
 
-load and show 'pictures' from firebase storage
+show 'pictures' from firebase storage with async loading in a structure.
